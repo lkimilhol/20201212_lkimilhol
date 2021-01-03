@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org"> <body>
+<div class="container">
+    <form action="/score/update" method="post"> <div class="form-group">
+        <input type="hidden" name="_method" value="put"/>
+
+        <label for="scoreId">점수 번호</label>
+        <input type="text" id="scoreId" name="scoreId" placeholder="점수 ID를 입력하세요">
+        <label for="score">점수</label>
+        <input type="text" id="score" name="score" placeholder="점수를 입력하세요">
+    </div>
+        <button type="submit">수정</button> </form>
+</div> <!-- /container --> </body>
+</html>
