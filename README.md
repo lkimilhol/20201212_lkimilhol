@@ -1,19 +1,3 @@
-#### Spring Boot 사용 시
-
-* [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/) 중 선택
-* [Spring Boot 2.x](https://spring.io/projects/spring-boot) 이상 버전 사용
-
-#### Node.js 사용 시
-
-* [TypeScript](https://www.typescriptlang.org/) 사용하여 개발합니다.
-* [Koa.js](https://koajs.com/) 혹은 [express.js](https://expressjs.com/) 사용합니다.
-* Package-Manager는 [yarn](https://classic.yarnpkg.com/en/), [npm](https://www.npmjs.com/) 중 선택합니다.
-
-### 제출 방법
-
-* README에 실행 방법 및 코드 및 구조에 대한 개요를 포함해 주세요
-* 디비 스키마에 대해서도 제출해 주세요 (ERD 혹은 DDL)
-
 ### 개발 스펙
 * Spring Framework 2.4.1
 * JDK 11
